@@ -1,4 +1,4 @@
-/* Lesson 7 - Conditional Staements */
+/* Lesson 7 - Conditional Statements */
 
 /* if statement */
 /* The scope of an if statement will execute
