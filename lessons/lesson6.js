@@ -51,7 +51,7 @@ Parenthesis
 Exponents
 Multiply & Divide 
 Addition & Subtraction
-This is for Order of pOeration in Math
+This is for Order of Operation in Math
 */
 function mathOrder() {
     const total = 10 / (3 + 2) * 4 + 5 ** 2 + 6 - 9;
@@ -111,7 +111,6 @@ function compareExample(value1, value2) {
     const isSame = value1 == value2;
     const isOtherSame = value1 === value2;
     const isDifferent = value1 != value2;
-    
     console.log(`is same ${isSame} is other same ${isOtherSame} 
     is differ ${isDifferent}`);
 
