@@ -1,7 +1,7 @@
 /* Lesson 7 - Conditional Staements */
 
 /* if statement */
-/* The scope of anif statement will execute
+/* The scope of an if statement will execute
 only when its condition is true. Unless you use
 the ! logical operator */
 function ifExample(value1) {
